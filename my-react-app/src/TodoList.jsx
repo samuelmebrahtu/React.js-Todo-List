@@ -2,9 +2,9 @@ import React, { useState } from "react";
 
 function TodoList() {
   const [tasks, setTasks] = useState([
-    "Eat breakfast",
-    "Take shower",
-    "Walk dog",
+    "Sample Task 1",
+    "Sample Task 2",
+    "Sample Task 3",
   ]);
 
   const [newTask, setNewTask] = useState("");
