@@ -2,6 +2,8 @@
 
 A simple todo list app built with React.js.
 
+You may also find the project at the following link [My Todo List App](https://main--samuelmebrahtu-todolist.netlify.app/)
+
 ## Features
 
 - Add new tasks
